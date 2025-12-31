@@ -1,5 +1,5 @@
 # Hola mundo! Mi nombre es Pablo Ceballos 
-Estudiante autodidacta 📚
+Estudiante autodidacta de Programación & Ciencia de Datos 📚
 
 
 ## Formación académica 📖
@@ -14,7 +14,29 @@ Luego continué hasta 4to año en Universidad Nacional de San Martín.
 * **Ciencia de Datos** - 1er tramo - Dipolmatura de Ciencia de Datos e Inteligencia Artificial | UNSAM - 2023
 * **Ciencia de Datos** - 2do tramo - Dipolmatura de Ciencia de Datos e Inteligencia Artificial | UNSAM - 2023 
 
-## Laboral 👷 
+## Skills
+### Lenguajes  
+* HTML
+* CSS
+* Javascript
+* Python
+* C, C++
+* Microsoft Office (Word, Excel)
+<!-- 
+Lenguajes de programación:
+1. Tecnologías Web: HTML, CSS, Javascript
+2. Desarrollo de aplicaciones: Python
+3. DataAnalytics: Python
+-->
+
+### Idiomas  
+* Español (AR) - Nativo 
+* Inglés - B2
+
+## Current Learning  
+- PowerBI
+
+## Experiencia Laboral 👷 
   <details>
     <summary><b>Técnico de Ingeniería Clínica</b> - Swiss Medical (2016-2022 & 2024-Actual)</summary>
   
