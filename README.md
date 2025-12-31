@@ -50,10 +50,8 @@ Luego continué hasta 4to año en Universidad Nacional de San Martín.
 `print("en preparación!")`
 
 ## Contacto
-[Mi Perfil de LinkedIn](www.linkedin.com/in/pablo-j-ceballos)
-<!--
-<a href="linkedin.com/in/pablo-j-ceballos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linedin_PabloCeballos" height="30" width="40" /></a>
--->
+<a href="http://www.linkedin.com/in/pablo-j-ceballos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linedin_PabloCeballos" height="30" width="40" /></a>
+
 <!--
 **pabceb/pabceb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
